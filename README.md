@@ -10,7 +10,8 @@ It provides familiarity with the concept of bias in ML, explores different metri
   - **Demographic Parity (DP)** & **Disparate Impact (DI)**
   - **Equal Opportunity** (TPR gap) & **Equalized Odds** (TPR/FPR gaps)
 - Applies a **model-based post-processing** mitigation (**group-specific thresholds**) and compares **before/after** metrics.  
-  _(Optional) Includes a data-based approach via **reweighting** if you run the extra cell._
+
+
 
 
 
